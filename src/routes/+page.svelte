@@ -18,7 +18,7 @@
     <button class="calc-btn">7</button>
     <button class="calc-btn">8</button>
     <button class="calc-btn">9</button>
-    <button class="calc-btn operator">÷</button>
+    <button class="calc-btn operator">/</button>
   
     <button class="calc-btn">4</button>
     <button class="calc-btn">5</button>
